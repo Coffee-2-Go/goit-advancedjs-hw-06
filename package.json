@@ -1,9 +1,9 @@
 {
-  "name": "typescript-homework-module-2",
+  "name": "homework-6",
   "version": "1.0.0",
   "description": "",
   "keywords": [],
-  "author": "",
+  "author": "Coffee-2-Go",
   "license": "ISC",
   "dependencies": {
     "typescript": "^5.1.5"
